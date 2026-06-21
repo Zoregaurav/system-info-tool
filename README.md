@@ -250,28 +250,34 @@ cd system-info-tool
 node app.js
 ```
 
----
-
 ## 📊 Sample Output
 
 ```json
 {
   "timestamp": "2026-06-21T12:00:00.000Z",
   "systemInfo": {
-    "hostname": "DESKTOP-XXXX",
+    "hostname": "DESKTOP-DEMO123",
     "platform": "win32",
     "architecture": "x64",
+    "homeDirectory": "C:\\Users\\<user>",
+    "nodeVersion": "v22.17.0",
+    "pid": 12345,
+    "cwd": "C:\\Projects\\system-info-tool",
     "cpuCount": 8,
-    "totalMemory": "15.93 GB",
-    "freeMemory": "8.24 GB",
-    "uptime": "12 Hours"
+    "totalMemory": "16.00 GB",
+    "freeMemory": "8.50 GB",
+    "uptime": "12 Hours 30 Minutes"
   },
   "envInfo": {
-    "username": "sample-user"
+    "username": "demo-user",
+    "userProfile": "C:\\Users\\demo-user",
+    "temp": "C:\\Temp"
   },
   "fileOperations": {
     "create": "File Created Successfully",
+    "initialContent": "Hello World",
     "update": "File Updated Successfully",
+    "finalContent": "Hello World\nLearning Node.js",
     "delete": "File Deleted Successfully"
   }
 }
