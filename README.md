@@ -315,6 +315,7 @@ Through this project, I learned:
 ## 📸 Screenshots
 
 ![Homepage](https://github.com/Zoregaurav/system-info-tool/blob/56c35bfd7ce8bb4cca79ebb530d9bd331a3b8f6e/Screenshot%202026-06-21%20141309.png)
+---
 ![Homepage](https://github.com/Zoregaurav/system-info-tool/blob/7e901404dcf1b24f077b6a2f4a429b71c2636425/Screenshot%202026-06-21%20141943.png)
 
 ---
