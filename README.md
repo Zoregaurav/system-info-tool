@@ -313,12 +313,6 @@ Through this project, I learned:
 
 ---
 
-## 👨‍💻 Author
-
-**Gaurav**
-
-Computer Engineering Student | Learning Node.js & Backend Development
-
 ---
 
 ⭐ If you found this project interesting, feel free to star the repository.
